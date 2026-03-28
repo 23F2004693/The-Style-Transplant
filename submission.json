@@ -1,7 +1,8 @@
 {
-  "prompt": "Gradient descent depicted as a 19th-century naturalist scientific engraving, hand-drawn ink linework, cross-hatching shading, no modern typography, handwritten serif labels, botanical elements (plants, insects), muted sepia and ochre tones, labeled slope diagram, arrows indicating descent, aged paper texture, authentic 1800s scientific illustration composition"  "model": "DALL·E 3",
+  "prompt": "Gradient descent depicted as a 19th-century naturalist scientific engraving, hand-drawn ink linework, cross-hatching shading, no modern typography, handwritten serif labels, botanical elements like plants and insects, muted sepia and ochre tones, labeled slope diagram, arrows indicating descent, aged paper texture",
+  "model": "DALL·E 3",
   "concept": "Gradient Descent",
   "tradition_name": "19th-century naturalist illustration",
   "tradition_period": "1800s",
-  "tradition_approach": "Detailed ink lines, labeled diagrams, muted natural palette, scientific composition to mimic botanical study illustrations"
+  "tradition_approach": "Detailed ink linework, cross-hatching shading, muted natural palette, and scientific labeling to mimic authentic botanical engravings"
 }
